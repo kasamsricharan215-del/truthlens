@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Nested extracted zip directory
+TruthLens-main/
+
+# Large huggingface cache
+models/image/hf_detector/
